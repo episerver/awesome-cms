@@ -35,3 +35,4 @@ A version of the Alloy reference site containing additional features for demoing
 * [HotspotsEditor](https://github.com/Geta/Geta.EPi.HotspotsEditor). Originaly created by Oxx and BVNetwork in their [CommerceStarterKit](https://github.com/BVNetwork/CommerceStarterKit), extracted out by Geta. 
 * [Geta.SEO.Sitemaps](https://nuget.episerver.com/package/?id=Geta.SEO.Sitemaps) - Search Engine Sitemap generator for EPiServer.
 * [ImageResizer.Plugins.EPiServerBlobReader](https://nuget.episerver.com/package/?id=ImageResizer.Plugins.EPiServerBlobReader) - ImageResizer library plugins for your Episerver site.
+* [EPiServer.Labs.BlockEnhancements](https://nuget.episerver.com/package/?id=EPiServer.Labs.BlockEnhancements) - Collection of useful enhancements around Block Publishing process.

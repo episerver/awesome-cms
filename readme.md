@@ -23,15 +23,15 @@ A version of the Alloy reference site containing additional features for demoing
 
 ## Add-Ons
 
-* [Possible.Robots Txthandler](https://nuget.episerver.com/en/OtherPages/Package/?packageId=POSSIBLE.RobotsTxtHandler). Add management of your robots.txt file straight from the CMS
-* [BVN.404 Handler](https://nuget.episerver.com/en/OtherPages/Package/?packageId=BVN.404Handler). Allows your content team to manage 404 redirects.
-* [PixieEPiServerExtensionMaxMindGeoIP2](https://nuget.episerver.com/en/OtherPages/Package/?packageId=PixieEPiServerExtensionMaxMindGeoIP2). Allows you to use paid Maxmind databases for better accuracy.
-* [RRS Feed](https://nuget.episerver.com/en/OtherPages/Package/?packageId=Chief2moro.SyndicationFeeds). Flexible ATOM/RSS feed creation for EPiServer CMS
-* [EPi.Extensions](http://nuget.episerver.com/en/OtherPages/Package/?packageId=Geta.EPi.Extensions). EPi.Extensions is library with useful extension methods and helpers for Episerver.
-* [EPiServer Instant Templates](https://github.com/Geta/InstantTemplates). Allows editors to create their own templates directly from within EPiServer.
-* [Geta.Tags](http://nuget.episerver.com/en/OtherPages/Package/?packageId=Geta.Tags). Geta.Tags is library that adds tagging functionality to EPiServer content.
-* [Media reference selector](http://nuget.episerver.com/en/OtherPages/Package/?packageId=Geta.Epi.MediaReferenceSelector). This module replaces the built-in media content reference editors in Episerver and adds possibility to upload files directly without having to go the extra step through the assets panel.
-* [Geta.Epi.FontThumbnail](http://nuget.episerver.com/en/OtherPages/Package/?packageId=Geta.Epi.FontThumbnail). Generates images based on FontAwesome or custom icon font, to be shown when creating new content in Episerver.
-* [HotspotsEditor](https://github.com/Geta/Geta.EPi.HotspotsEditor). Originaly created by Oxx and BVNetwork in their [CommerceStarterKit](https://github.com/BVNetwork/CommerceStarterKit), extracted out by Geta. 
+* [Possible.RobotsTxthandler](https://nuget.episerver.com/package/?id=POSSIBLE.RobotsTxtHandler). Add management of your robots.txt file straight from the CMS
+* [BVN.404Handler](https://nuget.episerver.com/package/?id=BVN.404Handler). Allows your content team to manage 404 redirects.
+* [PixieEPiServerExtensionMaxMindGeoIP2](https://nuget.episerver.com/package/?id=PixieEPiServerExtensionMaxMindGeoIP2). Allows you to use paid Maxmind databases for better accuracy.
+* [Chief2moro SyndicationFeed (RRS Feed)](https://nuget.episerver.com/package/?id=Chief2moro.SyndicationFeeds). Flexible ATOM/RSS feed creation for EPiServer CMS
+* [Geta.EPi.Extensions](http://nuget.episerver.com/package/?id=Geta.EPi.Extensions). EPi.Extensions is library with useful extension methods and helpers for Episerver.
+* [EPiServer Instant Templates](https://nuget.episerver.com/package/?id=EPiServer.InstantTemplates). Allows editors to create their own templates directly from within EPiServer.
+* [Geta.Tags](http://nuget.episerver.com/package/?id=Geta.Tags). Geta.Tags is library that adds tagging functionality to EPiServer content.
+* [Media reference selector](http://nuget.episerver.com/package/?id=Geta.Epi.MediaReferenceSelector). This module replaces the built-in media content reference editors in Episerver and adds possibility to upload files directly without having to go the extra step through the assets panel.
+* [Geta.Epi.FontThumbnail](http://nuget.episerver.com/package/?id=Geta.Epi.FontThumbnail). Generates images based on FontAwesome or custom icon font, to be shown when creating new content in Episerver.
+* [HotspotsEditor](https://nuget.episerver.com/package/?id=Geta.EPi.HotspotsEditor). Originaly created by Oxx and BVNetwork in their [CommerceStarterKit](https://github.com/BVNetwork/CommerceStarterKit), extracted out by Geta. 
 * [Geta.SEO.Sitemaps](https://nuget.episerver.com/package/?id=Geta.SEO.Sitemaps) - Search Engine Sitemap generator for EPiServer.
 * [ImageResizer.Plugins.EPiServerBlobReader](https://nuget.episerver.com/package/?id=ImageResizer.Plugins.EPiServerBlobReader) - ImageResizer library plugins for your Episerver site.

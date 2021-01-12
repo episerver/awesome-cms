@@ -36,3 +36,4 @@ A version of the Alloy reference site containing additional features for demoing
 * [Geta.SEO.Sitemaps](https://nuget.episerver.com/package/?id=Geta.SEO.Sitemaps) - Search Engine Sitemap generator for EPiServer.
 * [ImageResizer.Plugins.EPiServerBlobReader](https://nuget.episerver.com/package/?id=ImageResizer.Plugins.EPiServerBlobReader) - ImageResizer library plugins for your Episerver site.
 * [EPiServer.Labs.BlockEnhancements](https://nuget.episerver.com/package/?id=EPiServer.Labs.BlockEnhancements) - Collection of useful enhancements around Block Publishing process.
+* [Gulla.Episerver.AutomaticImageDescription](https://github.com/tomahg/Gulla.Episerver.AutomaticImageDescription) - Automatically generate alt-texts for your images.
